@@ -1,0 +1,22 @@
+#map {
+    height: 100vh;
+}
+
+/* #map { position: absolute; top: 0; bottom: 0; width: 100%; } */
+
+#filter-ctrl {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    padding: 10px;
+    z-index: 1;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#search-btn {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    z-index: 2;
+}
